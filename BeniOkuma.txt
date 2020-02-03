@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bu ikinci deneme dosyasidir. 123
+=======
+Bu ikinci deneme dosyasidir. Basarılı
+>>>>>>> e0ca2ccd966d3461a1a7025ef97b32dfd57e8738

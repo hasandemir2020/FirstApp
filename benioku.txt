@@ -1,2 +1,6 @@
 Bugun Bilgeadamda ilk dersimiz
+<<<<<<< HEAD
 Besiktas subesindeyiz
+=======
+Hasan Demir
+>>>>>>> e0ca2ccd966d3461a1a7025ef97b32dfd57e8738
